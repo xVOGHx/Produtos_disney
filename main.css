@@ -4,6 +4,6 @@
     box-sizing: border-box;
 }
 
-#produtos{
-    padding-top: 16px;
+#produtos h2{
+    padding: 16px 0;
 }
